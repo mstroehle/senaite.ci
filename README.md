@@ -2,6 +2,7 @@
   <h1>SENAITE CI</h1>
   <p>
     This package provides logos and artwork for the SENAITE project and is licensed under the
+    <br/>
     <a rel="license"
       href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
       Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License
